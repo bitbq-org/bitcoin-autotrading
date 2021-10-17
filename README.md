@@ -3,7 +3,7 @@ BITBQ BITCOIN AUTOTRADING CORE
 
 https://bitbq.org
 
-For an immediately usable, binary version of the Bitcoin Core software, see download folder.
+For an immediately usable, binary version of the software, see download folder.
 
 👉 👉 👉 [Click Here To Visit BitBQ](https://bitbq.org/?aff_sub3=github)
 
