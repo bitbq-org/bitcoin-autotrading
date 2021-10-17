@@ -1,7 +1,7 @@
 BITBQ BITCOIN AUTOTRADING CORE 
 =====================================
 
-https://bitbq.org
+[![BitBQ.org](https://raw.githubusercontent.com/bitbq-org/bitcoin-autotrading/master/1en.jpeg)](https://bitbq.org/?aff_sub3=github)
 
 For an immediately usable, binary version of the software, see download folder.
 
