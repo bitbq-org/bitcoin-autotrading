@@ -1,41 +1,30 @@
-Bitcoin Core integration/staging tree
+BITBQ BITCOIN AUTOTRADING CORE 
 =====================================
 
-https://bitcoincore.org
+https://bitbq.org
 
-For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
+For an immediately usable, binary version of the Bitcoin Core software, see download folder.
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+👉 👉 👉 [Click Here To Visit BitBQ](https://bitbq.org/?aff_sub3=github)
 
-What is Bitcoin?
+Further information about Bitcoin Core is available in the doc folder.
+
+What is BitBQ?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
-software which enables the use of this currency.
+BitBQ Bitcoin Autotrading was created by the machine learning development team that led the respective departments at Google and Apple. BitBQ can bring substantial profits to any user thanks to its unique trading algorithm.
 
-For more information read the original Bitcoin whitepaper.
+👉 👉 👉 [Click here for Sign up and open a free account](https://bitbq.org/?aff_sub3=github)
 
-License
--------
+For more information read the original whitepaper.
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
+completely stable. Tags are created
 regularly from release branches to indicate new official, stable release versions of Bitcoin Core.
-
-The https://github.com/bitcoin-core/gui repository is used exclusively for the
-development of the GUI. Its master branch is identical in all monotree
-repositories. Release branches and tags do not exist, so please do not fork
-that repository unless it is for development reasons.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
